@@ -1,2 +1,5 @@
 # gims
 Gaming Inventory Management System 
+
+UNIVERSITI SAINS ISLAM MALAYSIA (USIM)
+SEM 7, ISA: SECURED WEB PROGRAMMING
